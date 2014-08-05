@@ -1,0 +1,25 @@
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.exe
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.pdb
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.xml
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form1.resources
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form2.resources
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form3.resources
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Resources.resources
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.exe
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.xml
+C:\Users\Zume\AppData\Local\Temporary Projects\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.pdb
+C:\Users\Zume\documents\visual studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.exe
+C:\Users\Zume\documents\visual studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.xml
+C:\Users\Zume\documents\visual studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.pdb
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.exe
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.pdb
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\bin\Debug\Foro Hispano SAMP.xml
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form1.resources
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form2.resources
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Form3.resources
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro_Hispano_SAMP.Resources.resources
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.vbproj.GenerateResource.Cache
+C:\Users\Zume\Documents\Visual Studio 2010\Projects\Foro Hispano SAMP\Foro Hispano SAMP\obj\x86\Debug\Foro Hispano SAMP.vbprojResolveAssemblyReference.cache
